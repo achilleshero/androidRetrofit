@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone">phone</string>
+    <string name="internationalCode">internationalCode</string>
+    <string name="pin">pin:</string>
+    <string name="connect">connect</string>
+</resources>
